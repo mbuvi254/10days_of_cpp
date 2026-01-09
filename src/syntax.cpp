@@ -16,5 +16,5 @@ int main () {
 // return 0 ends the function
 //Don't forget to add semicolon at the end of the statement
 
-//if you chose to omit the namespace use std:: instead of cout
+//if you chose to omit the namespace use std:: instead of cout followed by :: operator for some objects
 //example  std::cout<<"Hello World";

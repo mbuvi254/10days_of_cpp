@@ -4,7 +4,8 @@
 int main() {
   std::cout << "Hello World! \n";
   std:: cout << "C++ Course " << std::endl; //new line manipulator
-  
+  std:: cout << " \" C++ Course \" " << std::endl;
+  std:: cout << " January" << \\ << "2026" << std::endl;
   return 0;
 }
 // The cout object, together with the << operator, is used to output values/print text:
