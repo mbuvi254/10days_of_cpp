@@ -1,4 +1,4 @@
-# 10days_of_c-
+# 10days_of_cpp
 
 # 1. Basic compilation
 ```bash
