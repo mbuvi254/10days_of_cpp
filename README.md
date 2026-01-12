@@ -119,4 +119,5 @@ gcc main.cpp -lstdc++ -o app
 g++ -std=c++20 -Wall -Wextra -O2 -Iinclude src/*.cpp main.cpp -lssl -lcrypto -o app
 ```
 
+# Makefile To Compile
 
